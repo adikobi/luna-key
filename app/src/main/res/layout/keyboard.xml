@@ -5,9 +5,9 @@
     android:keyTextColor="@color/black"
     android:keyBackground="@drawable/key_background"
     android:background="@color/keyboard_background_color"
-    android:keyTextSize="57sp"
+    android:keyTextSize="30sp"
     android:labelTextSize="20sp"
-    android:textStyle="bold"
+    android:fontFamily="@font/rubik"
     android:layout_width="match_parent"
     android:layout_height="match_parent">
 
