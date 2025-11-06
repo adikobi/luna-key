@@ -4,7 +4,7 @@
     android:keyWidth="16.6%p"
     android:horizontalGap="6px"
     android:verticalGap="2px"
-    android:keyHeight="12%p">
+    android:keyHeight="10%p">
 
     <Row>
         <Key android:keyLabel="ו"
