@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<Keyboard xmlns:android="http://schemas.android.com/apk/res/android"
+    android:keyWidth="16.6%p"
+    android:horizontalGap="6px"
+    android:verticalGap="2px"
+    android:keyHeight="12%p">
+
+    <Row>
+        <Key android:keyLabel="ו"
+            android:keyEdgeFlags="left"
+            android:codes="1493"/>
+        <Key android:keyLabel="ה"
+            android:codes="1492"/>
+        <Key android:keyLabel="ד"
+            android:codes="1491"/>
+        <Key android:keyLabel="ג"
+            android:codes="1490"/>
+        <Key android:keyLabel="ב"
+            android:codes="1489"/>
+        <Key android:keyLabel="א"
+            android:keyEdgeFlags="right"
+            android:codes="1488"/>
+    </Row>
+
+    <Row>
+
+        <Key android:keyLabel="ל"
+            android:keyEdgeFlags="left"
+            android:codes="1500"/>
+        <Key android:keyLabel="כ"
+            android:codes="1499"/>
+        <Key android:keyLabel="י"
+            android:codes="1497"/>
+        <Key android:keyLabel="ט"
+            android:codes="1496"/>
+        <Key android:keyLabel="ח"
+            android:codes="1495"/>
+        <Key android:keyLabel="ז"
+            android:keyEdgeFlags="right"
+            android:codes="1494"/>
+
+    </Row>
+
+    <Row>
+        <Key android:keyLabel="צ"
+            android:keyEdgeFlags="left"
+            android:codes="1510"/>
+        <Key android:keyLabel="פ"
+            android:codes="1508"/>
+        <Key android:keyLabel="ע"
+            android:codes="1506"/>
+        <Key android:keyLabel="ס"
+            android:codes="1505"/>
+        <Key android:keyLabel="נ"
+            android:codes="1504"/>
+        <Key android:keyLabel="מ"
+            android:keyEdgeFlags="right"
+            android:codes="1502"/>
+    </Row>
+
+
+    <Row>
+        <Key android:keyLabel="."
+            android:keyWidth="18%p"
+            android:codes="46"/>
+        <Key android:keyLabel="ת"
+            android:codes="1514"/>
+        <Key android:keyLabel="ש"
+            android:codes="1513"/>
+        <Key android:keyLabel="ר"
+            android:codes="1512"/>
+        <Key android:keyLabel="ק"
+            android:codes="1511"/>
+        <Key android:keyLabel="מחק"
+            android:isRepeatable="true"
+            android:keyWidth="25%p"
+            android:keyEdgeFlags="right"
+            android:codes="-5"/>
+
+    </Row>
+
+    <Row android:rowEdgeFlags="bottom">
+        <Key android:keyLabel='123'
+            android:keyWidth="15%p"
+            android:codes="-66"/>
+        <Key android:keyLabel="'"
+            android:keyWidth="15%p"
+            android:codes="39"/>
+        <Key android:keyLabel=","
+            android:keyWidth="15%p"
+            android:codes="44"/>
+        <Key android:keyLabel="רווח"
+            android:isRepeatable="true"
+            android:keyWidth="26%p"
+            android:codes="32"/>
+        <Key android:keyLabel="ירידת שורה"
+            android:keyWidth="30%p"
+            android:codes="-4"/>
+
+
+    </Row>
+
+
+
+</Keyboard>
+
+
+
