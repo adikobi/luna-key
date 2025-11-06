@@ -3,7 +3,7 @@
     android:keyWidth="40%p"
     android:horizontalGap="5px"
     android:verticalGap="2px"
-    android:keyHeight="220px">
+    android:keyHeight="180px">
 
 
     <Row>
